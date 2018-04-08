@@ -23,6 +23,9 @@ $(call inherit-product, device/oneplus/oneplus3/device.mk)
 # Inherit some common AOSiP stuff.
 $(call inherit-product, vendor/aosip/config/common_full_phone.mk)
 
+PRODUCT_BUILD_PROP_OVERRIDES += \
+DEVICE_MAINTAINERS="Jagrav Naik"
+
 PRODUCT_NAME := aosip_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
