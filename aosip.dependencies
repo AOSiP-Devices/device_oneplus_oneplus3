@@ -10,10 +10,5 @@
   {
     "repository" : "vendor_oneplus",
     "target_path": "vendor/oneplus"
-  },
-  {
-   "remote"   : "aosip",
-   "repository": "platform_packages_apps_SnapdragonCamera",
-   "target_path": "packages/apps/SnapdragonCamera"
   }
 ]
