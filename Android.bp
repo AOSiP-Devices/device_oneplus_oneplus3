@@ -1,0 +1,3 @@
+subdirs = [
+	"tri-state-key",
+]
