@@ -26,8 +26,6 @@ import android.text.TextUtils;
 import android.util.Log;
 import java.util.List;
 
-import com.android.internal.util.aosip.FileUtils;
-
 public class PocketSensor implements SensorEventListener {
 
     private static final boolean DEBUG = false;
